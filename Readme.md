@@ -1,7 +1,7 @@
 # Telegram bot via node.js
 
 ### 1 Step
-`yarn install`
+`yarn install` or `npm install`
 
 ### 2 Step
 
